@@ -1,0 +1,6 @@
+@StockAppWebAPI_HostAddress = http://localhost:5222
+
+GET {{StockAppWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
